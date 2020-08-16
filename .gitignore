@@ -1,0 +1,13 @@
+*~
+build
+dist
+__pycache__/
+*.egg
+*.egg-info/
+.idea/workspace.xml
+.idea/tasks.xml
+.venv
+.vscode
+.tox
+.pytest_chache
+.mypy_cache
