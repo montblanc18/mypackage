@@ -1,6 +1,4 @@
 numpy>=1.19.1
-mypy
-twine
 pytest
 tox
 black
